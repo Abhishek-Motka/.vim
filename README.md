@@ -1,1 +1,1 @@
-# .vimVim configuration for IDE support
+# .vimVim configuration for IDE support
